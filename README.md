@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **tranhuuthanhcp@gmail.com**
 
-- ⚡ Fun fact **I think i love you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Huu Thanh</h1>
 💫 About Me:
-# 💫 About Me:
+
 👨🏻‍💻 Fullstack Developer sharing my journey in web development<br>💡 Building scalable apps with React.js, Next.js, Express, and NestJS<br>⚙️ Focused on modern architectures: REST APIs, authentication, real-time, microservices<br>🎓 Passionate about Computer Science, problem-solving & clean code<br>📚 Learning in public and documenting everything along the way<br>🎯 Exploring DevOps, Git strategies, and system design
 
 
